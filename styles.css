@@ -33,6 +33,7 @@ body{
     display: flex;
     justify-content: space-around;
     margin: 10px;
+    flex-wrap: wrap;
 }
 .projectlink {
     font-weight: bold;
